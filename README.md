@@ -12,7 +12,7 @@ The problems in the challenge are as follows:
 
     Day 1: Data Type
     Day 2: If Else If
-    Day 3: Palindrome
+    Day 3: Sum Of Even & Odd
     Day 4: Fibonacci Numbers
     Day 5: Sorting Algorithms
     Day 6: Searching Algorithms
