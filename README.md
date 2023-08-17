@@ -14,23 +14,23 @@ The problems in the challenge are as follows:
     Day 2: If Else If
     Day 3: Sum Of Even & Odd
     Day 4: Print 1 To N without loop
-    Day 5: Sorting Algorithms
-    Day 6: Searching Algorithms
-    Day 7: Recursion
-    Day 8: Dynamic Programming
-    Day 9: Graph Algorithms
-    Day 10: Data Structures
-    Day 11: Object-Oriented Programming
-    Day 12: Design Patterns
-    Day 13: Unit Testing
-    Day 14: Continuous Integration and Continuous Delivery
-    Day 15: Agile Development
-    Day 16: Web Development
-    Day 17: Mobile Development
-    Day 18: Cloud Computing
-    Day 19: Data Science
-    Day 20: Machine Learning
-    Day 21: Artificial Intelligence
+    Day 5: Sum Of First N numbers
+    Day 6: 
+    Day 7: 
+    Day 8:
+    Day 9: 
+    Day 10: 
+    Day 11: 
+    Day 12: 
+    Day 13: 
+    Day 14: 
+    Day 15: 
+    Day 16: 
+    Day 17: 
+    Day 18: 
+    Day 19: 
+    Day 20: 
+    Day 21: 
 
 Solutions
 
