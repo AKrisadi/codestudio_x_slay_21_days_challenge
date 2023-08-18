@@ -15,7 +15,7 @@ The problems in the challenge are as follows:
     Day 3: Sum Of Even & Odd
     Day 4: Print 1 To N without loop
     Day 5: Sum Of First N numbers
-    Day 6: 
+    Day 6: Check Armstrong
     Day 7: 
     Day 8:
     Day 9: 
