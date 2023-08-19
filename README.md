@@ -16,7 +16,7 @@ The problems in the challenge are as follows:
     Day 4: Print 1 To N without loop
     Day 5: Sum Of First N numbers
     Day 6: Check Armstrong
-    Day 7: 
+    Day 7: Look-And-Say Sequence
     Day 8:
     Day 9: 
     Day 10: 
