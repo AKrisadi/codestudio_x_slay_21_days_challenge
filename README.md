@@ -17,7 +17,7 @@ The problems in the challenge are as follows:
     Day 5: Sum Of First N numbers
     Day 6: Check Armstrong
     Day 7: Look-And-Say Sequence
-    Day 8:
+    Day 8: Terms Of an AP
     Day 9: 
     Day 10: 
     Day 11: 
