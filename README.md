@@ -18,7 +18,7 @@ The problems in the challenge are as follows:
     Day 6: Check Armstrong
     Day 7: Look-And-Say Sequence
     Day 8: Terms Of an AP
-    Day 9: 
+    Day 9: Average Marks
     Day 10: 
     Day 11: 
     Day 12: 
