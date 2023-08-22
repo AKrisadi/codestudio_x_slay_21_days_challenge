@@ -19,7 +19,7 @@ The problems in the challenge are as follows:
     Day 7: Look-And-Say Sequence
     Day 8: Terms Of an AP
     Day 9: Average Marks
-    Day 10: 
+    Day 10: Find Character Case
     Day 11: 
     Day 12: 
     Day 13: 
