@@ -23,7 +23,7 @@ The problems in the challenge are as follows:
     Day 11: Crazy Numbers
     Day 12: Pattern Printing
     Day 13: Fahrenheit To Celsius
-    Day 14: 
+    Day 14: Print Name
     Day 15: 
     Day 16: 
     Day 17: 
