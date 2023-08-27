@@ -24,7 +24,7 @@ The problems in the challenge are as follows:
     Day 12: Pattern Printing
     Day 13: Fahrenheit To Celsius
     Day 14: Print Name
-    Day 15: 
+    Day 15: Count Frequency in a range
     Day 16: 
     Day 17: 
     Day 18: 
