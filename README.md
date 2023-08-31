@@ -26,9 +26,9 @@ The problems in the challenge are as follows:
     Day 14: Print Name
     Day 15: Count Frequency in a range
     Day 16: Largest Element in the Array
-    Day 17: 
-    Day 18: 
-    Day 19: 
+    Day 17: Linear Search
+    Day 18: Remove Duplicates from sorted Array
+    Day 19: Duplicate in array
     Day 20: 
     Day 21: 
 
