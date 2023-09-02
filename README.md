@@ -29,8 +29,8 @@ The problems in the challenge are as follows:
     Day 17: Linear Search
     Day 18: Remove Duplicates from sorted Array
     Day 19: Duplicate in array
-    Day 20: 
-    Day 21: 
+    Day 20: Sum Of Max and Min
+    Day 21: Check Difference
 
 Solutions
 
